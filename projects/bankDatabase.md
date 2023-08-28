@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/EF758142-BE22-4BA9-B2F6-4D9AB5D8F7E8_1_201_a.jpeg
 title: "Bank Database"
 date: 2023
 published: true
