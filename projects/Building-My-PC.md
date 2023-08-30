@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/3FACC18C-2B4D-4577-980B-F981BF4B69B7_4_5005_c.jpeg
 title: "Building My PC"
 date: 2021
 published: true
