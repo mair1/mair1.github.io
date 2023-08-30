@@ -10,7 +10,7 @@ labels:
 summary: "I built my own super beginner super weak PC in highschool."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/D4D639E1-F168-4C07-A14E-DE5EF13B97B2_1_201_a.jpeg">
 
 Towards the end of my senior year in high school I got really into mechanical keyboard videos on Youtube. I was so into it, actually, that I bought parts to custom build my own keyboard and then realised I didn't have a PC or a computer yet :0
 
