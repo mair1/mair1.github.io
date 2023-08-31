@@ -10,7 +10,7 @@ labels:
   - GitHub
 summary: "A simple bank database that I developed for ICS 212."
 ---
-<img class="img-fluid" src="../img/8A473F78-2B1C-462B-8FB2-4CF789FD87A5.jpeg">
+<img class="img-fluid" src="../img/2052005A-4457-49D9-B63F-0A055ABE4F33.png">
 
 For ICS212, our main project throughout the semester was to slowly build up smaller functions and methods that we could put together in one big project that would be a bank database. For my first time learning and using C, I found the syntax of this language to be quite tedious but one that was definitely interesting to learn.
 
