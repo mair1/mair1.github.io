@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/8A473F78-2B1C-462B-8FB2-4CF789FD87A5.jpeg
+image: img/8A473F78-2B1C-462B-8FB2-4CF789FD87A5_1_201_a.jpeg
 title: "Miso Mouse"
 date: 2023
 published: true
