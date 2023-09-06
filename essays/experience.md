@@ -23,4 +23,4 @@ An area I am really excited for is the final project. Having heard about it and 
 
 ## In conclusion...
 
-I hope that through all the WODs and eventual projects, by the end of this course this semester I will have a much deeper understanding of software engineering along with the practical skills to bring my ideas to life. This class is one that I have been looking forward to taking and I am excited to see it through to the end!
+I hope that through all the WODs, in class, graded, and timed, coding exercises, and eventual projects, by the end of this course this semester I will have a much deeper understanding of software engineering along with the practical skills to bring my ideas to life. This class is one that I have been looking forward to taking and I am excited to see it through to the end!
