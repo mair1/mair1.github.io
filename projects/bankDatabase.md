@@ -16,4 +16,4 @@ For ICS212, our main project throughout the semester was to slowly build up smal
 
 This simple bank database mocks an interaction a bank employee might have with a machine when accessing customer accounts. It has functions such as deleting, searching, adding accounts, as well as printing account information to the user. User data is kept in numerical order based on bank account numbers, but also keeps track of account name and address of the account holder. Although simple, this database was my first big project for a course and one I worked hard on!
 
-Source: <a href="https://github.com/mair1/bank-database"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/mair1/bank-database"><i class="large github icon "></i>Bank Database</a>
