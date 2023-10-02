@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Understand and Using Frameworks"
+title: "Understanding and Using Frameworks"
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-02
 published: ture
