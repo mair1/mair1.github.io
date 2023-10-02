@@ -11,9 +11,9 @@ labels:
 ---
 
 A website built with Bootstrap framework:
-<img class="img-fluid" src="../img/Screenshot 2023-10-01 at 4.56.50 PM.png">
+<img class="img-fluid" src="../img/Screenshot 2023-10-01 at 4.56.50 PM.png" width="100%">
 One built without a framework:
-<img class="img-fluid" src="../img/Screenshot 2023-10-02 at 12.04.53 PM.png">
+<img class="img-fluid" src="../img/Screenshot 2023-10-02 at 12.04.53 PM.png" width="100%">
 
 Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
 
