@@ -27,12 +27,19 @@ The main page of this website will be presenting the blog posts of exchange and 
 Two roles should be enough, a user role assigned to the students chatting and posting on the website, and an admin role to handle any issues that may arise.
 
 Mockup page ideas:
+
 *Landing page
+
 *Login/Sign up page
+
 *Choose country/region
+
 *Post feed page with comment ability
+
 *Add post page
+
 *Admin home page
+
 *Admin all posts page
  
 ## Case Ideas
