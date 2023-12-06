@@ -8,7 +8,7 @@ published: true
 labels:
   - Software Engineering
   - IDPM
-  -Coding Standards
+  - Coding Standards
 ---
 
 <img height="400" class="rounded float-start pe-4" src="https://assets-global.website-files.com/62e95dddfb380a0e61193e7d/634970c7cbeed5644711b937_62fd57ccd6890f25796f92f9_AdobeStock_295461823.jpeg">
