@@ -1,0 +1,73 @@
+{
+  "basics": {
+    "name": "Mairi Yoshioka",
+    "label": "Student",
+    "picture": "https://github.com/mair1.png",
+    "email": "mairii@hawaii.edu",
+    "phone": "808-282-1811",
+    "website": "https://mair1.github.io",
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "mair1", "url": "https://github.com/mair1" },
+      { "network": "linkedin", "username": "mairi yoshioka", "url": "http://linkedin.com/in/mairi-yoshioka" }
+    ]
+  },
+  "interests": [
+    { "name": "Cats" },
+    { "name": "Video Games" },
+    { "name": "Music" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "Java" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Microsoft Suite", "Procreate" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.A.",
+      "startDate": "2021-08-23",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Manoa SAAS",
+      "position": "Computer Support Specialist",
+      "website": "https://manoa.hawaii.edu/undergrad/saas/",
+      "startDate": "2023-01-14",
+      "endDate": "Present",
+      "summary": "Manage technical issues and provide support to students and faculty.",
+      "highlights": [
+        "Trouble shoot hardware and software problems",
+        "Maintain and update the centers main website" 
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "'Iolani School",
+      "website": "https://www.iolani.org/summer",
+      "position": "Teaching Assistant",
+      "startDate": "2023-06-20",
+      "endDate": "Present",
+      "summary": "Teaching Assistant for grades K-6",
+      "highlights": [
+       ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
